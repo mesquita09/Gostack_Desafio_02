@@ -27,7 +27,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, foi criada uma aplicação com o objetivo de praticar o que foi mostrado nas aulas até o momento.
+Desafio onde foi criada uma aplicação com o objetivo de praticar o que foi mostrado nas aulas até o momento.
 
 A aplicação contem rotas para armazenar repositórios do portfólio, permitindo a criação, listagem, atualização e remoção, além de permitir que os repositórios possam receber "likes".
 
